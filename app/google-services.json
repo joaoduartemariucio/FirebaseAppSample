@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470550850057",
+    "firebase_url": "https://fir-appsample-6afda.firebaseio.com",
+    "project_id": "fir-appsample-6afda",
+    "storage_bucket": "fir-appsample-6afda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470550850057:android:8b1f03ba4b51e7fdbba6d8",
+        "android_client_info": {
+          "package_name": "br.com.joaoduarte.firebase.app.sample.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470550850057-oh8f4emfeibu70tq42vgmcsc44iaukt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLZMEMefeDT7n14mVoL6VUG3wNCvB1GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470550850057-oh8f4emfeibu70tq42vgmcsc44iaukt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
